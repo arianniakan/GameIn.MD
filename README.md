@@ -2,82 +2,71 @@
 
 2\. Click on "Create Account" button from the top menu bar.
 
-![](.//media/image1.png){width="6.402597331583552in"
-height="3.017361111111111in"}----
+![](.//media/image1.png)
 
 3\. Enter your Email and choose a username and password for yourself.
 After choosing your country and agreeing to "terms of service" click on
 "Create Account" button.
 
-![](.//media/image2.png){width="6.499332895888014in"
-height="3.050955818022747in"}
+![](.//media/image2.png)
 
 4\. Open your email inbox and enter the Code that has been sent to you
 in the next page and click on "Activate account"
 
-![](.//media/image3.png){width="6.499305555555556in"
-height="3.0316262029746284in"}
+![](.//media/image3.png)
 
 5\. Now you are signed in. before buying crypto, you need to verify your
 account. Click on the "verify account" button. It will take only about
 10 minutes.
 
-![](.//media/image4.png){width="6.402597331583552in" height="3.0375in"}
+![](.//media/image4.png)
 
 6\. Now you should verify the starter mode of your account. Click on the
 "verify" button under "starter".
 
-![](.//media/image5.png){width="6.376622922134733in"
-height="3.044348206474191in"}
+![](.//media/image5.png)
 
 7\. In the next page you should enter needed information and then click
 on "continue".
 
-![](.//media/image6.png){width="6.389610673665792in"
-height="3.0124398512685913in"}
-
+![](.//media/image6.png)
 8\. Then you will be redirected to the first verify page. The button
 under starter is in the pending mode. You should wait 2 minutes at most
 and refresh the page to see that you are verified. After that, click on
 "verify" button under Intermediate mode.
 
-![](.//media/image7.png){width="6.402597331583552in"
-height="3.0379155730533682in"}
+![](.//media/image7.png)
 
 9\. Enter your occupation from the menu and then click on "continue"
 button.
 
-![](.//media/image8.png){width="6.498647200349956in"
-height="3.0254779090113737in"}
+![](.//media/image8.png)
 
 10\. After that, you need to choose your Identity document type. It
 could be either Passport, Driver's license or Id card. Then a box would
 appear and you should upload the picture of your chosen document.
 
-![](.//media/image9.png){width="6.389610673665792in" height="3.03125in"}
+![](.//media/image9.png)
 
 11\. In the next step you should upload a proof of residence document.
 After that you will see a success message and then you should click on
 "Continue" button. The acceptance of verification will take up to 5
 minutes.
 
-![](.//media/image10.png){width="6.389583333333333in"
-height="3.031182195975503in"}
+![](.//media/image10.png)
 
 12\. After completing the verification you have two options for buying
 crypto:
 
 NOTE: You need to buy Tether (USDT) because that is what we accept.
 
-![](.//media/image11.png){width="6.402597331583552in"
-height="3.0381944444444446in"}
+![](.//media/image11.png)
 
 A: Click on "Buy Crypto" (It's a little easier):
 
 a\. Click on "Buy" button.
 
-![](.//media/image12.png){width="6.509722222222222in"
-height="3.64751968503937in"}
+![](.//media/image12.png)
 
 b\. Choose Tether USD (USDT)
 
@@ -107,15 +96,13 @@ a\. In the next page, click on "Deposit" button and choose your cash
 type. It would be much easier if you choose the cash type of your
 country.
 
-![](.//media/image19.png){width="6.402597331583552in"
-height="3.033209755030621in"}
+![](.//media/image19.png)
 
 b\. In the next page Enter your needed amount and choose the deposit
 method. Choose the option with zero or the lowest fee. (Consider fee
 amount on your final amount)
 
-![](.//media/image20.png){width="6.428571741032371in"
-height="3.079861111111111in"}
+![](.//media/image20.png)
 
 c\. After completing the transaction, click on "Trade". In the Trade
 page click on "Market" and then choose USDT and your preferred currency
@@ -148,7 +135,7 @@ your money will be gone and no one can return it.
 type an address description and then go to the Gamein page and copy the
 TRC20 Address and paste it here. Then click on "Add withdrawal address".
 
-![15](.//media/image26.jpeg){width="6.5in" height="3.7in"}
+![15](.//media/image26.jpeg)
 
 CAUTION: You should be very careful that the address is completely true
 and as same as the given address Otherwise your money will be lost.
