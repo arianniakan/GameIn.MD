@@ -1,4 +1,4 @@
-1\. Enter **kraken.com** in your browser address bar.
+1\. Enter kraken.com in your browser address bar.
 
 2\. Click on "Create Account" button from the top menu bar.
 
